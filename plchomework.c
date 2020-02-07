@@ -29,6 +29,6 @@ printf("\n%c\n",str[i]);
 }
   
 }
-fclose(fptr);
+fclose(iptfle);
 return 0;
 }
